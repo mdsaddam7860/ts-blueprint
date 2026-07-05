@@ -2,9 +2,9 @@ import "dotenv/config";
 import express from "express";
 import type { Response, Request } from "express";
 import { logger } from "./utils/winston.logger.js"
-// import { getHubspotClient } from "./configs/hubspot.config.js";
-
-
+// Remove git from your repo
+// remove git from your repo rmdir /s /q .git
+// npm install
 
 
 const app = express();
